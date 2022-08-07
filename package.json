@@ -1,0 +1,17 @@
+{
+  "name": "mlb-data",
+  "version": "0.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mlbboxscores": "^0.1.0",
+    "mlbplays": "^2.2.2",
+    "mlbprobablepitchers": "^1.0.0",
+    "mlbweather": "^0.0.1"
+  }
+}
